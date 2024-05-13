@@ -1,0 +1,22 @@
+* {
+    padding: 0%;
+    margin: 0;
+    font-size: 40px;
+}
+.box-one{
+    background-color: aqua;
+    border: 30px solid chartreuse;
+    padding: 20px;
+    margin: 30px;
+    height: 34px;
+    width: 34px;
+}
+.box-two{
+    background-color: violet;
+    border: 50px solid cornflowerblue;
+    padding: 34px;
+    margin: 34px;
+    box-sizing: border-box;
+    
+}
+    

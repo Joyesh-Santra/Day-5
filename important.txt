@@ -1,0 +1,13 @@
+Padding
+
+    Padding increases the space between border of a box and the content
+
+Border
+
+    Border add space between the margin and the Padding
+
+Margin 
+    
+    Margin add space between the border of a box and the border of adjacent box
+
+
